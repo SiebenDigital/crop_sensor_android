@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CropSensorAnalytics</string>
+    <string-array name="crops_array">
+        <item>Tomato Sensor 1</item>
+        <item>Corn Sensor A</item>
+        <item>Wheat Sensor Field 2</item>
+        <item>Potato Sensor 4</item>
+    </string-array>
 </resources>
